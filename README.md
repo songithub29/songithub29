@@ -1,3 +1,5 @@
+<h2 align="center">❤️ HI ❤️</h2>
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
