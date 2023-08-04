@@ -1,8 +1,10 @@
 <h2 align="center">👋 HI 👋</h2>
-<br>
 <a href="#" target="_blank">
   <img src="https://cdn.pixabay.com/photo/2023/02/07/18/56/rocket-7774875_1280.png" width="1200"  />
 </a>
+<br>
+<h2 align="center">🏫 School</h2>
+<p>Sai Gon University</p>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -16,6 +18,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<br>
+<h2>🔥 Trying to be better 🔥</h2>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
