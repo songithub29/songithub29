@@ -1,7 +1,7 @@
 <h2 align="center">❤️ HI ❤️</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="https://coccoc.com/search?query=Pixabay" width="1200" >
+  <img src="https://coccoc.com/search?query=Pixabay" width="1200" alt="trungquandev-official" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
