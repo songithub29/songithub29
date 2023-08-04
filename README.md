@@ -4,7 +4,7 @@
 </a>
 <br>
 <h2 align="center">🏫 School</h2>
-<p>Sai Gon University</p>
+<h3>Sai Gon University</h3>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -19,7 +19,6 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <br>
-<h2  align="center">🔥 Trying to be better 🔥</h2>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -31,6 +30,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="son-email" />
   </a>
 </div>
-
+<br>
+<h2  align="center">🔥 Trying to be better 🔥</h2>
 <br>
 
